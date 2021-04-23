@@ -7,3 +7,7 @@ Favorites Foods
 biryani
 salad
 sandwich
+
+Favorite Drinks
+Coconut water
+Sugarcane juice
