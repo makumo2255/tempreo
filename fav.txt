@@ -1,4 +1,4 @@
-Favorite Movies
+iFavorite Movies
 2012
 Golden Eye
 Man of Steel
@@ -12,6 +12,7 @@ Favorite Drinks
 Coconut water
 Sugarcane juice
 Watermelon juice
+Cola Freaks
 
 Favorite Books
 A Fairy Tale
@@ -19,9 +20,9 @@ Long Long Journey
 Computer Texts & Labels
 
 Favorite Mobiles
-Google Pixel 5
-Samsung s9 plus
-Mi Note 8
+Google Pixel 6a
+Samsung s9 plus Note
+Mi Note 8 Max
 
 Favorite Laptops
 Dell v9 Vostro
