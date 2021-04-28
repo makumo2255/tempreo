@@ -2,6 +2,7 @@ iFavorite Movies
 2012
 Golden Eye
 Man of Steel
+Mortal Combat
 
 Favorites Foods
 Biryani
@@ -33,3 +34,5 @@ Favorite Places
 Sydney
 Dubai
 Hyderabad
+Bangkok
+
