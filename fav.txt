@@ -4,9 +4,9 @@ Golden Eye
 Man of Steel
 
 Favorites Foods
-biryani
-salad
-sandwich
+Biryani
+Veg. Salad
+Cheese Sandwich
 
 Favorite Drinks
 Coconut water
@@ -29,3 +29,7 @@ Dell v9 Vostro
 HP Elite 4 Book
 IBM Thinkpad 4
 
+Favorite Places
+Sydney
+Dubai
+Hyderabad
